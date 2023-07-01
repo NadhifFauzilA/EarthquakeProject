@@ -3,7 +3,7 @@
 
 <head>
     <title>Earthquake Project | ARABIS GROUP</title>
-    <link rel="icon" tpye="image/x-icon" href="source/favicon.ico">
+    <link rel="icon" tpye="image/x-icon" href="favicon.ico">
     <meta charset="UTF-8">
     <meta name="description" contents="Niagahoster">
     <link rel="stylesheet" href="style.css" type="text/css">
@@ -11,7 +11,7 @@
 
 <body>
     <header>
-        <img src="source/logo.png" style="display:block; margin:auto;">
+        <img src="logo.png" style="display:block; margin:auto;">
         <h1 class="title">Arabis Earthquake Information</h1>
         <h3 class="desc">Project by Nadhif Fauzil Adhim</h3>
 
